@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Mudança (MP1)","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Mudança (MP1)","order":1,"parentId":0,"scrollX":771.3333333333334,"scrollY":494},
 {"id":2,"expanded":false,"name":"Chegada a fazenda","order":2,"parentId":1,"scrollX":772,"scrollY":484.6666666666667},
-{"id":3,"expanded":false,"name":"Dentro da casa","order":19,"parentId":19,"scrollX":772,"scrollY":495.3333333333333},
+{"id":3,"expanded":false,"name":"Dentro da casa","order":19,"parentId":19,"scrollX":771.3333333333334,"scrollY":494},
 {"id":4,"expanded":true,"name":"Fazenda","order":3,"parentId":1,"scrollX":772,"scrollY":484.6666666666667},
 {"id":5,"expanded":true,"name":"Lago","order":4,"parentId":1,"scrollX":772,"scrollY":495.3333333333333},
 {"id":6,"expanded":true,"name":"Fazenda","order":5,"parentId":1,"scrollX":1158.6666666666667,"scrollY":484.6666666666667},
@@ -19,5 +19,5 @@ null,
 {"id":17,"expanded":true,"name":"Tiro","order":16,"parentId":15,"scrollX":1460.6666666666667,"scrollY":483.3333333333333},
 {"id":18,"expanded":false,"name":"Morte baleia","order":17,"parentId":15,"scrollX":771.3333333333334,"scrollY":494},
 {"id":19,"expanded":true,"name":"Fuga (Cap6)","order":18,"parentId":0,"scrollX":1190,"scrollY":483.3333333333333},
-{"id":20,"expanded":true,"name":"Fim eu nem acredito","order":20,"parentId":19,"scrollX":772,"scrollY":484.6666666666667}
+{"id":20,"expanded":true,"name":"Fim eu nem acredito","order":20,"parentId":19,"scrollX":772.6666666666666,"scrollY":483.3333333333333}
 ]
